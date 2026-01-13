@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#ClickImage:hover {
+  width: 300px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+#clickImage:hover {
+  transform: scale(1.05);
+}
